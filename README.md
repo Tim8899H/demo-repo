@@ -1,4 +1,4 @@
 # demo-repo
 a demo for github repo
 
-This is the first commit, good luck. Add on github.
+This is the first commit, good luck. Add on github. Add second on github.
